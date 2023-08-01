@@ -12,6 +12,6 @@ dependencies:
   - Cartopy==0.18.0
   # - statsmodels
  
-  # - netcdf4
-  # - xarray
-  # - zarr
+  - netcdf4
+  - xarray
+  - zarr
