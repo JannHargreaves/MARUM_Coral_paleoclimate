@@ -1,1 +1,17 @@
-
+dependencies:
+  - python=3.9
+  - matplotlib
+  # - networkx
+  # - numpy
+  # - pandas
+  # - scipy
+  # # - tqdm==4.46.0
+  # - watermark
+  # - python-wget
+  # - shapely
+  # - Cartopy==0.18.0
+  # - statsmodels
+ 
+  # - netcdf4
+  # - xarray
+  # - zarr
