@@ -10,8 +10,7 @@ dependencies:
   - python-wget
   - shapely
   - Cartopy==0.18.0
-  # - statsmodels
- 
+  - statsmodels
   - netcdf4
   - xarray
   - zarr
