@@ -4,7 +4,8 @@ You can work off this binder https://mybinder.org/v2/gh/JannHargreaves/MARUM_Cor
 
 or you can create an environment which has all the following imported; 
 
-# this will create a new environment called coralenv with python3.9 and then you can install all the required packages
+This will create a new environment called coralenv with python3.9 and then you can install all the required packages.
+
 conda create -n coralenv python=3.9
 conda install numpy
 conda install -c conda-forge cartopy
