@@ -6,23 +6,23 @@ or you can create an environment which has all the following imported;
 
 This will create a new environment called coralenv with python3.9 and then you can install all the required packages.
 
-conda create -n coralenv python=3.9
-conda install numpy
-conda install -c conda-forge cartopy
-conda install pandas
-conda install ipython
-conda install scipy
-conda install matplotlib
-conda install -c conda-forge climlab
+- conda create -n coralenv python=3.9
+- conda install numpy
+- conda install -c conda-forge cartopy
+- conda install pandas
+- conda install ipython
+- conda install scipy
+- conda install matplotlib
+- conda install -c conda-forge climlab
 
 
-pip install pyleoclim
-pip install jupyter
-pip install statsmodels
-pip install netCDF4
-pip install xarray
-pip install pylr2
-pip install shapely
-pip install zarr
-pip install dask
+- pip install pyleoclim
+- pip install jupyter
+- pip install statsmodels
+- pip install netCDF4
+- pip install xarray
+- pip install pylr2
+- pip install shapely
+- pip install zarr
+- pip install dask
 
