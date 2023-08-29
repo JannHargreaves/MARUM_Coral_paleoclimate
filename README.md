@@ -1,8 +1,8 @@
 # MARUM_Coral_paleoclimate
 
-You can work off this binder https://mybinder.org/v2/gh/JannHargreaves/MARUM_Coral_paleoclimate/HEAD
+This github project was developed for teaching during the MARUM_Coral_Paleoclimate practical around coral paleoclimate. This runs through the development of age model for corals, and basic data analysis following the analysis in the Nurhati et al., 2011 paper. 
+It contains a data folder, containing the coral infomraiton for Nurhati et al., 2011 and the SST for each location. The coral data from the age model is not available however the code is still available. 
 
-or you can create an environment which has all the following imported; 
 
 This will create a new environment called coralenv with python3.9 and then you can install all the required packages.
 
